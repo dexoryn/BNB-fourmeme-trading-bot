@@ -74,7 +74,7 @@ Tip: All commands accept standard Node/CLI flags and module‑specific options (
 - For fast markets, sniper slippage of 3–8% (300–800 bips) is common; test first.
 - For copy‑trading, set both per‑trade caps and a daily max exposure.
 
-## Support
+## Support && Contact
 - Telegram: [Dexoryn](https://t.me/@dexoryn_me)
 
 ## Security best practices
